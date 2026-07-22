@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Owen</h1>
-<h3 align="center">A passionate Software Developer from Nairobi, Kenya.</h3>
+<h3 align="center">A Software Engineer from Nairobi, Kenya.</h3>
 
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=mogakaowen&theme=onedark">
@@ -11,9 +11,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working as a **Web Developer** at **Equity Life Assurance Kenya**, developing **UI components**, **Algorithms**, and **Calculators** for insurance covers.
-- 🌱 I’m expanding my backend expertise with **Node.js**, **Express.js**, and **PostgreSQL**.
-- 💬 Ask me about **Angular**, **React**, **Next.js**, **Node.js**, **MongoDB**, **PostgreSQL**, or **Tailwind CSS**.
+- 🔭 I’m currently working as a **Software Developer** at **Equity Life Assurance Kenya**, developing **UI interfaces** , **APIs**, **Insurance Algorithms**, and **Insurance Calculators** for insurance products.
+- 🌱 I’m expanding my backend expertise in **Docker**, **Kubernetes**, **.NET**, **Node.js**, **Express.js**, and **PostgreSQL**.
+- 💬 Ask me about **Angular**, **React**, **Next.js**, **.NEt**, **Container Orchestration**, **Node.js**, **MongoDB**, **PostgreSQL**, or **Tailwind CSS**.
 - 📜 Published my research paper: ["A Chaotic Multiobjective Runge-Kutta Algorithm for Optimized Circuit Design"](https://www.hindawi.com/journals/complexity/2024/123456/) in Hindawi Journals.
 - 📫 Reach out via **[Email](mailto:owennyandieka@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/owen-nyandieka-5a2a55232/)**.
 - 🌍 Fun fact: I enjoy exploring cutting-edge technology and improving customer experiences through innovative solutions.
